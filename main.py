@@ -85,4 +85,4 @@ st.sidebar.markdown("""
 
 # ✅ Footer
 st.markdown("---")
-st.markdown("Made with ❤️ by [Mohd Shami](https://codewithshami.blogspot.com)  |  [GitHub](https://github.com/codewithshami)  |  [LinkedIn](https://www.linkedin.com/in/mohd-shami/)")
+st.markdown("Made with ❤️ by [Mohd Sami]  |  [GitHub](https://github.com/mohd-samicodes)  |  [LinkedIn](https://www.linkedin.com/in/mohd-sami-826923290/)")
